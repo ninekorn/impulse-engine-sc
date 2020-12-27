@@ -1,0 +1,58 @@
+C:\july21Backup\BACKUP sccs4ED\2020-july-05\SCCoreSystems\sc_impulse_physics\SC_Physiks_CSharp\SC_Console_APP\bin\Release\Color.ps
+C:\july21Backup\BACKUP sccs4ED\2020-july-05\SCCoreSystems\sc_impulse_physics\SC_Physiks_CSharp\SC_Console_APP\bin\Release\Color.vs
+C:\july21Backup\BACKUP sccs4ED\2020-july-05\SCCoreSystems\sc_impulse_physics\SC_Physiks_CSharp\SC_Console_APP\bin\Release\MiniCube.fx
+C:\july21Backup\BACKUP sccs4ED\2020-july-05\SCCoreSystems\sc_impulse_physics\SC_Physiks_CSharp\SC_Console_APP\bin\Release\SC_Console_APP.exe.config
+C:\july21Backup\BACKUP sccs4ED\2020-july-05\SCCoreSystems\sc_impulse_physics\SC_Physiks_CSharp\SC_Console_APP\bin\Release\SC_Console_APP.exe
+C:\july21Backup\BACKUP sccs4ED\2020-july-05\SCCoreSystems\sc_impulse_physics\SC_Physiks_CSharp\SC_Console_APP\bin\Release\SC_Console_APP.pdb
+C:\july21Backup\BACKUP sccs4ED\2020-july-05\SCCoreSystems\sc_impulse_physics\SC_Physiks_CSharp\SC_Console_APP\bin\Release\Box2DNet.dll
+C:\july21Backup\BACKUP sccs4ED\2020-july-05\SCCoreSystems\sc_impulse_physics\SC_Physiks_CSharp\SC_Console_APP\bin\Release\SharpDX.D3DCompiler.dll
+C:\july21Backup\BACKUP sccs4ED\2020-july-05\SCCoreSystems\sc_impulse_physics\SC_Physiks_CSharp\SC_Console_APP\bin\Release\SharpDX.Desktop.dll
+C:\july21Backup\BACKUP sccs4ED\2020-july-05\SCCoreSystems\sc_impulse_physics\SC_Physiks_CSharp\SC_Console_APP\bin\Release\SharpDX.Direct2D1.dll
+C:\july21Backup\BACKUP sccs4ED\2020-july-05\SCCoreSystems\sc_impulse_physics\SC_Physiks_CSharp\SC_Console_APP\bin\Release\SharpDX.Direct3D11.dll
+C:\july21Backup\BACKUP sccs4ED\2020-july-05\SCCoreSystems\sc_impulse_physics\SC_Physiks_CSharp\SC_Console_APP\bin\Release\SharpDX.DirectInput.dll
+C:\july21Backup\BACKUP sccs4ED\2020-july-05\SCCoreSystems\sc_impulse_physics\SC_Physiks_CSharp\SC_Console_APP\bin\Release\SharpDX.dll
+C:\july21Backup\BACKUP sccs4ED\2020-july-05\SCCoreSystems\sc_impulse_physics\SC_Physiks_CSharp\SC_Console_APP\bin\Release\SharpDX.DXGI.dll
+C:\july21Backup\BACKUP sccs4ED\2020-july-05\SCCoreSystems\sc_impulse_physics\SC_Physiks_CSharp\SC_Console_APP\bin\Release\SharpDX.Mathematics.dll
+C:\july21Backup\BACKUP sccs4ED\2020-july-05\SCCoreSystems\sc_impulse_physics\SC_Physiks_CSharp\SC_Console_APP\bin\Release\SharpDX.XInput.dll
+C:\july21Backup\BACKUP sccs4ED\2020-july-05\SCCoreSystems\sc_impulse_physics\SC_Physiks_CSharp\SC_Console_APP\obj\Release\SC_Console_APP.Properties.Resources.resources
+C:\july21Backup\BACKUP sccs4ED\2020-july-05\SCCoreSystems\sc_impulse_physics\SC_Physiks_CSharp\SC_Console_APP\obj\Release\SC_Console_APP.csproj.GenerateResource.cache
+C:\july21Backup\BACKUP sccs4ED\2020-july-05\SCCoreSystems\sc_impulse_physics\SC_Physiks_CSharp\SC_Console_APP\obj\Release\SC_Console_APP.csproj.CoreCompileInputs.cache
+C:\july21Backup\BACKUP sccs4ED\2020-july-05\SCCoreSystems\sc_impulse_physics\SC_Physiks_CSharp\SC_Console_APP\obj\Release\SC_Console_APP.csproj.CopyComplete
+C:\july21Backup\BACKUP sccs4ED\2020-july-05\SCCoreSystems\sc_impulse_physics\SC_Physiks_CSharp\SC_Console_APP\obj\Release\SC_Console_APP.exe
+C:\july21Backup\BACKUP sccs4ED\2020-july-05\SCCoreSystems\sc_impulse_physics\SC_Physiks_CSharp\SC_Console_APP\obj\Release\SC_Console_APP.pdb
+C:\july21Backup\BACKUP sccs4ED\2020-july-05\SCCoreSystems\sc_impulse_physics\SC_Physiks_CSharp\SC_Console_APP\obj\Release\SC_Console_APP.csprojAssemblyReference.cache
+C:\Users\ninekorn\Documents\GitHub\impulse-engine-sc\SC_Physiks_CSharp\SC_Console_APP\bin\Release\Color.ps
+C:\Users\ninekorn\Documents\GitHub\impulse-engine-sc\SC_Physiks_CSharp\SC_Console_APP\bin\Release\Color.vs
+C:\Users\ninekorn\Documents\GitHub\impulse-engine-sc\SC_Physiks_CSharp\SC_Console_APP\bin\Release\MiniCube.fx
+C:\Users\ninekorn\Documents\GitHub\impulse-engine-sc\SC_Physiks_CSharp\SC_Console_APP\bin\Release\SC_Console_APP.exe.config
+C:\Users\ninekorn\Documents\GitHub\impulse-engine-sc\SC_Physiks_CSharp\SC_Console_APP\bin\Release\SC_Console_APP.exe
+C:\Users\ninekorn\Documents\GitHub\impulse-engine-sc\SC_Physiks_CSharp\SC_Console_APP\bin\Release\SC_Console_APP.pdb
+C:\Users\ninekorn\Documents\GitHub\impulse-engine-sc\SC_Physiks_CSharp\SC_Console_APP\bin\Release\SharpDX.D3DCompiler.dll
+C:\Users\ninekorn\Documents\GitHub\impulse-engine-sc\SC_Physiks_CSharp\SC_Console_APP\bin\Release\SharpDX.Desktop.dll
+C:\Users\ninekorn\Documents\GitHub\impulse-engine-sc\SC_Physiks_CSharp\SC_Console_APP\bin\Release\SharpDX.Direct2D1.dll
+C:\Users\ninekorn\Documents\GitHub\impulse-engine-sc\SC_Physiks_CSharp\SC_Console_APP\bin\Release\SharpDX.Direct3D11.dll
+C:\Users\ninekorn\Documents\GitHub\impulse-engine-sc\SC_Physiks_CSharp\SC_Console_APP\bin\Release\SharpDX.DirectInput.dll
+C:\Users\ninekorn\Documents\GitHub\impulse-engine-sc\SC_Physiks_CSharp\SC_Console_APP\bin\Release\SharpDX.dll
+C:\Users\ninekorn\Documents\GitHub\impulse-engine-sc\SC_Physiks_CSharp\SC_Console_APP\bin\Release\SharpDX.DXGI.dll
+C:\Users\ninekorn\Documents\GitHub\impulse-engine-sc\SC_Physiks_CSharp\SC_Console_APP\bin\Release\SharpDX.Mathematics.dll
+C:\Users\ninekorn\Documents\GitHub\impulse-engine-sc\SC_Physiks_CSharp\SC_Console_APP\obj\Release\SC_Console_APP.Properties.Resources.resources
+C:\Users\ninekorn\Documents\GitHub\impulse-engine-sc\SC_Physiks_CSharp\SC_Console_APP\obj\Release\SC_Console_APP.csproj.GenerateResource.cache
+C:\Users\ninekorn\Documents\GitHub\impulse-engine-sc\SC_Physiks_CSharp\SC_Console_APP\obj\Release\SC_Console_APP.csproj.CoreCompileInputs.cache
+C:\Users\ninekorn\Documents\GitHub\impulse-engine-sc\SC_Physiks_CSharp\SC_Console_APP\obj\Release\SC_Console_APP.csproj.CopyComplete
+C:\Users\ninekorn\Documents\GitHub\impulse-engine-sc\SC_Physiks_CSharp\SC_Console_APP\obj\Release\SC_Console_APP.exe
+C:\Users\ninekorn\Documents\GitHub\impulse-engine-sc\SC_Physiks_CSharp\SC_Console_APP\obj\Release\SC_Console_APP.pdb
+C:\Users\ninekorn\Documents\GitHub\impulse-engine-sc\SC_Physiks_CSharp\SC_Console_APP\bin\Release\SharpDX.pdb
+C:\Users\ninekorn\Documents\GitHub\impulse-engine-sc\SC_Physiks_CSharp\SC_Console_APP\bin\Release\SharpDX.D3DCompiler.pdb
+C:\Users\ninekorn\Documents\GitHub\impulse-engine-sc\SC_Physiks_CSharp\SC_Console_APP\bin\Release\SharpDX.D3DCompiler.xml
+C:\Users\ninekorn\Documents\GitHub\impulse-engine-sc\SC_Physiks_CSharp\SC_Console_APP\bin\Release\SharpDX.Desktop.pdb
+C:\Users\ninekorn\Documents\GitHub\impulse-engine-sc\SC_Physiks_CSharp\SC_Console_APP\bin\Release\SharpDX.Desktop.xml
+C:\Users\ninekorn\Documents\GitHub\impulse-engine-sc\SC_Physiks_CSharp\SC_Console_APP\bin\Release\SharpDX.Direct2D1.pdb
+C:\Users\ninekorn\Documents\GitHub\impulse-engine-sc\SC_Physiks_CSharp\SC_Console_APP\bin\Release\SharpDX.Direct2D1.xml
+C:\Users\ninekorn\Documents\GitHub\impulse-engine-sc\SC_Physiks_CSharp\SC_Console_APP\bin\Release\SharpDX.Direct3D11.pdb
+C:\Users\ninekorn\Documents\GitHub\impulse-engine-sc\SC_Physiks_CSharp\SC_Console_APP\bin\Release\SharpDX.Direct3D11.xml
+C:\Users\ninekorn\Documents\GitHub\impulse-engine-sc\SC_Physiks_CSharp\SC_Console_APP\bin\Release\SharpDX.DirectInput.pdb
+C:\Users\ninekorn\Documents\GitHub\impulse-engine-sc\SC_Physiks_CSharp\SC_Console_APP\bin\Release\SharpDX.DirectInput.xml
+C:\Users\ninekorn\Documents\GitHub\impulse-engine-sc\SC_Physiks_CSharp\SC_Console_APP\bin\Release\SharpDX.DXGI.pdb
+C:\Users\ninekorn\Documents\GitHub\impulse-engine-sc\SC_Physiks_CSharp\SC_Console_APP\bin\Release\SharpDX.DXGI.xml
+C:\Users\ninekorn\Documents\GitHub\impulse-engine-sc\SC_Physiks_CSharp\SC_Console_APP\bin\Release\SharpDX.Mathematics.pdb
+C:\Users\ninekorn\Documents\GitHub\impulse-engine-sc\SC_Physiks_CSharp\SC_Console_APP\bin\Release\SharpDX.Mathematics.xml
